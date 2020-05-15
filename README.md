@@ -1,2 +1,2 @@
 # various-coding-challenges
-Coding Challenges for PRactice in various languages.
+Coding Challenges for Practice in various languages.
