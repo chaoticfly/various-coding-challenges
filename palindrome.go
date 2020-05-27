@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	"regexp"
 	"strings"
 )
@@ -40,8 +39,8 @@ func palindrome(str string) bool {
 
 }
 
-func main() {
-	fmt.Printf("\"a used a car\" is a palindrome? %v\n", palindrome("a used a car"))
-	fmt.Printf("\"A man, a plan, a canal: Panama\" is a palindrome? %v\n", palindrome("A man, a plan, a canal: Panama"))
-	fmt.Printf("\"Malayalam\" is a palindrome? %v\n", palindrome("Malayalam"))
-}
+// func main() {
+// 	fmt.Printf("\"a used a car\" is a palindrome? %v\n", palindrome("a used a car"))
+// 	fmt.Printf("\"A man, a plan, a canal: Panama\" is a palindrome? %v\n", palindrome("A man, a plan, a canal: Panama"))
+// 	fmt.Printf("\"Malayalam\" is a palindrome? %v\n", palindrome("Malayalam"))
+// }
